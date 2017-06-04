@@ -15,15 +15,11 @@ function setup(){
 }
 setup();
 
-var input = "здесь может быть ваша реклама";
 var output = "";
 
-var key = "keyCodeocoffdvbkldfbj";
-var keyIndex = 0;
+var key = "key phrase";
 
-var keyCode = [1,0,1]//toCode(key);
-
-
+var keyCode = toCode(key);
 
 function sum(arr1, arr2){
 	var sum = [];
