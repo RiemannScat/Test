@@ -1,8 +1,6 @@
-var input = "Your phrase";
 var output = "";
 
 var key = "Key sentence";
-var keyIndex = 0;
 
 var keyCode = toCode(key);
 
